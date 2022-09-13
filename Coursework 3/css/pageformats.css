@@ -1,0 +1,88 @@
+header {
+	height:50px;
+	border-width:2px;
+	border-bottom-style: groove;
+	border-bottom-color:silver;
+}
+
+header h2 {
+	position:relative;
+	bottom:-10px;
+
+}
+
+#credit {
+	height:80px;
+	width:60%;
+	margin-top:50px;
+	margin-left:80px;
+}
+
+img{
+	float:right;
+	position:relative;
+	bottom:45px;
+	right:450px;
+}
+#updateMsg{
+	float:right;
+	position:relative;
+	font-size:16pt;
+	bottom:55px;
+	left:200px;
+}
+.mail {
+margin-left:80px;
+padding-top: 10px;
+padding-bottom: 10px;
+height:320px;
+width: 80%;
+background : #ededed;
+border: 1px soild silver;
+}
+
+li {list-style-type: none;
+font-size: 16pt;
+}
+
+.mail h2 {
+margin-left: 38px;
+}
+input {
+font-size: 12pt;
+margin-left:23px;
+}
+#input1{
+	width:24ch;
+}
+#input2 {
+	width:5ch;
+}
+input:focus, textarea:focus{
+background-color: lightyellow;
+}
+label{
+	font-size:12pt;
+	font-weight:600;
+}
+select {
+	font-size:12pt;
+	margin-left:5px;
+	height:25px;
+}
+
+#submitbutton {
+	font-size: 12pt;
+	color:white;
+	background:#c22215;
+	border-color:grey;
+	margin-left:120px;
+}
+#liRandom {
+	height:13px;
+}
+#message {
+	font-size:11pt;
+	margin-left:120px;
+}
+
