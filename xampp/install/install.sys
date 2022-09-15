@@ -1,0 +1,10 @@
+DIR = C:\Users\akhan\Downloads\xampp-win32-5.6.38-0-VC11\xampp
+xampp = 5.6.38
+
+server = 1.8.0
+perl = 0
+python = 0
+utils = 0
+java = 0
+other = 0
+usbstick = 0
