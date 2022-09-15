@@ -15,7 +15,7 @@ which contains screenshots and a walkthrough of the web program which may aid yo
 3) Download and move the 'Coursework 3' directory into 'htdocs'
 4) You must now switch on the xampp server...Run the program named 'xampp-control.exe' located in the same directory as 'htdocs' 
 5) Press start for the modules: 'Apache' and 'MySQL', then wait till both the modules turn green (indicating successful connection).
-6) Head to your internet brwoser and type the following url which should take you directly on to our hosted pages: localhost:80/Coursework 3
+6) Head to your internet browser and type the following url which should take you directly on to our hosted pages: localhost:80/Coursework 3
 
 That's all thats required to access the credit card simulator, however if you want to further explore the database where the credit card information
 gets stored please follow the steps below...
