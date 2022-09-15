@@ -8,4 +8,8 @@ allows you to host web pages locally. I have also included a copy of the XAMPP (
 #
 -------------------------------------------------- -----------------INSTRUCTIONS------------------------------------------------------------------------------------
 In order to get the source code up and running you must follow some steps...
-1) As mentioned above I have included the xampp program file which you must download in order to host the web pages on your local server
+1) As mentioned above I have included the xampp program file which you must download in order to host the web pages on your local server.
+2) Find the sub-directory 'htdocs' inside 'xampp' directory
+3) Download and move the 'Coursework 3' directory into 'htdocs'
+4) You must now switch on the xampp server...Run the program named 'xampp-control.exe' located in the same directory as 'htdocs' 
+5) Press start for the modules: 'Apache' and 'MySQL', then wait till both the modules turn green (indicating successful connection).
